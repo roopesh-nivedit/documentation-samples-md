@@ -22,7 +22,7 @@ Tic-tac-toe requires the following for an exciting experience:
 
 Tic-tac-toe is an easy game to play with simple rules. Before starting the game, the players must choose between two symbols (X and O). During their turn, each player must draw their symbol on a three-by-three grid of squares. The player who draws their symbol three times in a row horizontally, vertically, or diagonally wins the game.
 
-![A tic-tac-toe game won by the player who chose 'X'.](learn-tic-tac-toe/assets/images/tic-tac-toe.png "Tic-tac-toe")
+![A tic-tac-toe game won by the player who chose 'X'.](/assets/images/tic-tac-toe.png "Tic-tac-toe")
 
 ## Instructions
 
