@@ -1,6 +1,6 @@
 # About findNeedles documentation
 
-This is an API reference document that explains how to call the findNeedles() method. There are many variations of the findNeedles() method in the internet, but I have decided to document this particular version as I believe the code can be improved.
+This API reference document explains how to call the findNeedles() method. There are many variations of the findNeedles() method on the internet, but I have decided to document this version as I believe the developer can improve the code.
 
 ## Audience
 
@@ -8,7 +8,7 @@ This document is intended for experienced Java programmers.
 
 ## Suggestions for the developer
 
-- We should consider removing the limit on the number of needles. Currently, it is limited to 5 but we should allow users to use any number of needles.
+- We should consider removing the limit on the number of needles. Currently, it is limited to 5, but we should allow users to use any number of needles.
 - We should consider moving the initialization of the 'words' string array outside the first for loop.
 
   **Existing logic**
@@ -34,4 +34,4 @@ This document is intended for experienced Java programmers.
   }
   ```
 
-In the existing logic, the split method for the haystack string is executed for every iteration of the first for loop. This is not required as the 'words' string array is reassigned with the same value every time when it is inside the for loop. As shown in the improved logic, it is better if the 'words' string array is assigned only once. Hence, we should move the string array outside the first for loop. This improves the speed of the program, especially when the haystack is big.
+In the existing logic, the split method for the haystack string is executed for every iteration of the first 'for' loop. This is not required as the 'words' string array is reassigned with the same value whenever it is inside the 'for' loop. The improved logic shows that it is better if the 'words' string array is assigned only once. Hence, we should move the string array outside the first for loop. This improves the program's speed, especially when the haystack is big.

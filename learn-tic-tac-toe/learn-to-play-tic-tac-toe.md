@@ -1,6 +1,6 @@
 # Learn to play Tic-tac-toe
 
-This document explains how to play tic-tac-toe with a fellow human being. Tic-tac-toe is a fun turn-based game that can be played using a writing instrument (for example, a pencil) and a paper. This document does not include instructions about how to play the game on screen-based devices, such as computers and mobile phones.
+This document explains how to play tic-tac-toe with a fellow human being. Tic-tac-toe is a fun turn-based game played using a writing instrument (for example, a pencil) and paper. This document does not include instructions about playing the game on screen-based devices, such as computers and mobile phones.
 
 ## Benefits
 
@@ -20,7 +20,7 @@ Tic-tac-toe requires the following for an exciting experience:
 
 ## Gameplay
 
-Tic-tac-toe is an easy game to play with simple rules. Before starting the game, the players must choose between two symbols (X and O). During their turn, each player must draw their symbol on a three-by-three grid of squares. The player who draws their symbol three times in a row horizontally, vertically, or diagonally wins the game.
+Tic-tac-toe is an easy game to play with simple rules. Before starting the game, the players must choose between two symbols (X and O). Each player must draw their symbol on a three-by-three grid of squares during their turn. The player who draws their symbol three times in a row horizontally, vertically, or diagonally wins the game.
 
 ![A tic-tac-toe game won by the player who chose 'X'.](assets/images/tic-tac-toe.png "Tic-tac-toe")
 
@@ -29,7 +29,7 @@ Tic-tac-toe is an easy game to play with simple rules. Before starting the game,
 To play tic-tac-toe, follow these steps:
 
 1. Draw a three-by-three grid of squares on the paper. 
-2. Start the game. The first player must draw their symbol on an empty square of their choice. Traditionally, the player who chose ‘X’ plays first. 
+2. Start the game. The first player must draw their symbol on an empty square of their choice. Traditionally, the player who chose 'X' plays first. 
 3. Continue to play the game. The second player must draw their symbol on a different empty square. 
 4. Repeat drawing the symbols until a player wins the game by drawing their symbol three times in a row. 
 
